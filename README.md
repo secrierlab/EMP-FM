@@ -62,7 +62,7 @@ Visualise the ADESI score of the EMP-FM model.
 
 ## Contributing
 
-If you find a bug or want to suggest a new feature for EMT-LM, please open a GitHub issue in this repository. Pull requests are also welcome!
+If you find a bug or want to suggest a new feature for EMP-FM, please open a GitHub issue in this repository. Pull requests are also welcome!
 
 ## License
 
